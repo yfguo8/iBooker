@@ -1,2 +1,0 @@
-# iBooker
-Created with CodeSandbox
